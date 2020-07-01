@@ -1,0 +1,117 @@
+.contact{
+		padding: 220px 0 150px 0;
+		background: #f8f8f8;
+	}
+
+	.contact-title{
+		font-size: 50px;
+		color: #151313;
+		font-family: 'Titillium Web', sans-serif;
+		text-align: center;
+
+	}
+	.contact-text{
+		font-size: 22px;
+		color: #151313;
+		text-align: center;
+	}
+	.contact-facebook-icon{
+		font-size: 45px;
+		color: #151313;
+		margin-left: 6px;
+		transform: scale(1);
+		transition: 350ms;
+	}
+	.contact-facebook-icon:hover{
+		transition: 350ms;
+		color: #3b5998;
+		transform: scale(1.2);
+	}
+	.contact-instagram-icon{
+		font-size: 45px;
+		color: #151313;
+		margin-left: 6px;
+		transform: scale(1);
+		transition: 350ms;
+	}
+	.contact-instagram-icon:hover{
+		transition: 350ms;
+		color: #fb3958;
+		transform: scale(1.2);
+	}
+	.contact-github-icon{
+		font-size: 45px;
+		color: #151313;
+		margin-left: 6px;
+		transform: scale(1);
+		transition: 350ms;
+	}
+	.contact-github-icon:hover{
+		transition: 350ms;
+		color: #6e5494;
+		transform: scale(1.2);
+	}
+.contact-twitter-icon{
+		font-size: 45px;
+		color: #151313;
+		margin-left: 6px;
+		transform: scale(1);
+		transition: 350ms;
+	}
+	.contact-twitter-icon:hover{
+		transition: 350ms;
+		color: #1DA1F2;
+		transform: scale(1.2);
+	}
+
+	.contact-mail-icon{
+		font-size: 45px;
+		color: #151313;
+		margin-left: 6px;
+		transition: 350ms;
+		transform: scale(1);
+	}
+	.contact-mail-icon:hover{
+		transition: 350ms;
+		color: #D44638;
+		transform: scale(1.2);
+	}
+	.contact-link-icon{
+		font-size: 45px;
+		color: #151313;
+		margin-left: 6px;
+		transition: 350ms;
+		transform: scale(1);
+	}
+	.contact-link-icon:hover{
+		transition: 350ms;
+		color: #0077B5;
+		transform: scale(1.2);
+	}
+
+		.end-text{
+		font-size: 25px;
+		color:#151313;
+	}
+
+.mail-drop{
+		text-decoration: underline;
+		text-decoration-style: dotted;
+		cursor: pointer;
+	}
+	.contact-link-icon{
+		font-size: 45px;
+		color: #151313;
+		margin-left: 6px;
+		transition: 350ms;
+		transform: scale(1);
+	}
+	.contact-link-icon:hover{
+		transition: 350ms;
+		color: #0077B5;
+		transform: scale(1.2);
+	}
+	.navbar-link{
+		cursor: pointer;
+		font-family: 'Open Sans', sans-serif;
+	}
